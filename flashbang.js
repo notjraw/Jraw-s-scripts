@@ -10,7 +10,7 @@ function effect() {
   sorryMessage.style.backgroundColor = 'white';
   sorryMessage.style.padding = '20px';
   sorryMessage.style.borderRadius = '10px';
-  sorryMessage.innerText = 'Sorry...';
+  sorryMessage.innerText = 'Theres no way out';
 
   document.body.appendChild(sorryMessage);
 
